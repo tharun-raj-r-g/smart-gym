@@ -1,0 +1,211 @@
+[
+    {
+      "id": 0,
+      "case":1,
+      "minimumBmi": 18.5,
+      "maximumBmi": 25,
+      "injuries": "leg",
+      "specification": "nil",
+      "gender": "male",
+      "circuit": [
+        { "name": "Warmup- 20 minutes", "set": 3, "reps": 10 },
+        { "name": "Flat Dumbbell press", "set": 3, "reps": 10 },
+        { "name": "Inclined Dumbbell press", "set": 3, "reps": 10 },
+        { "name": "Seated Machine Fly", "set": 3, "reps": 10 },
+        { "name": "Wide grip Lat pull down", "set": 3, "reps": 10 },
+        { "name": "Closed Cable Grip Seated Row", "set": 3, "reps": 10 },
+        { "name": "T-bar Row Machine", "set": 3, "reps": 10 },
+        { "name": "Leg Extension", "set": 3, "reps": 10 },
+        { "name": "Leg press", "set": 3, "reps": 10 },
+        { "name": "Leg Curl Machine", "set": 3, "reps": 10 },
+        { "name": "Standing Call Rise", "set": 3, "reps": 10 },
+        { "name": "Cables Push down", "set": 3, "reps": 10 },
+        { "name": "Bar Push down", "set": 3, "reps": 10 },
+        { "name": "Seated Bench- Tricep Dips", "set": 3, "reps": 10 },
+        { "name": "Barbell Curls", "set": 3, "reps": 10 },
+        { "name": "Dumbbell Curls", "set": 3, "reps": 10 },
+        { "name": "Hammer Curls", "set": 3, "reps": 10 },
+        { "name": "Seated Shoulder press", "set": 3, "reps": 10 },
+        { "name": "Dumbbell Front Rise", "set": 3, "reps": 10 },
+        { "name": "Dumbbell Side Rise", "set": 3, "reps": 10 },
+        { "name": "Barbell shrugs", "set": 3, "reps": 10 }
+      ],
+      "workoutperweek": [
+        {
+          "workoutperday": [
+            { "name": "Threadmill-15min", "set": 3, "reps": 10 },
+            { "name": "Pushups", "set": 3, "reps": 10 },
+            { "name": "Flat Bench Press - Dumbell", "set": 3, "reps": 10 },
+            { "name": "Incline Bench Press - Dumbell", "set": 3, "reps": 10 },
+            { "name": "Standing Chest Fly - Cable", "set": 3, "reps": 10 },
+            { "name": "Smith Machine - Chest", "set": 3, "reps": 10 },
+            { "name": "Pushups", "set": 3, "reps": 10 }
+          ]
+        },
+        {
+          "workoutperday": [
+            { "name": "Bent - Over Row - Barbell", "set": 3, "reps": 10 },
+            { "name": "Lat pull down - Cable", "set": 3, "reps": 10 },
+            { "name": "Smith Machine - Barbell", "set": 3, "reps": 10 },
+            { "name": "Cuban Rotation - Dumbell", "set": 3, "reps": 10 },
+            { "name": "Good Morning - Smith Machine", "set": 3, "reps": 10 },
+            { "name": "Pullups", "set": 3, "reps": 10 }
+          ]
+        },
+        {
+          "workoutperday": [
+            { "name": "Reverse Crunch - Cable", "set": 3, "reps": 10 },
+            { "name": "Hanging Leg Raise Twist", "set": 3, "reps": 10 },
+            { "name": "Kneeling Crunch - Cable", "set": 3, "reps": 10 },
+            { "name": "Lying Hip Raise - Smith Machine", "set": 3, "reps": 10 },
+            { "name": "Tuck Crunch - Dumbell", "set": 3, "reps": 10 }
+          ]
+        },
+        {
+          "workoutperday": [
+            { "name": "Face Pull - Cable", "set": 3, "reps": 10 },
+            { "name": "Upright row Barbell", "set": 3, "reps": 10 },
+            { "name": "Shoulder Press", "set": 3, "reps": 10 },
+            { "name": "Front Raise", "set": 3, "reps": 10 },
+            { "name": "Lateral Raise", "set": 3, "reps": 10 }
+          ]
+        },
+        {
+          "workoutperday": [
+            { "name": "Barbell Curls", "set": 3, "reps": 10 },
+            { "name": "Dumbell Curls", "set": 3, "reps": 10 },
+            { "name": "Peacher Curls", "set": 3, "reps": 10 },
+            { "name": "Inclined Curls", "set": 3, "reps": 10 },
+            { "name": "Hammer Curls", "set": 3, "reps": 10 },
+            { "name": "Closed Grip Bench Press", "set": 3, "reps": 10 },
+            { "name": "Cables Push Down", "set": 3, "reps": 10 },
+            { "name": "One Hand Dumbell - Low Weight", "set": 3, "reps": 10 },
+            { "name": "V- Curve tricep Rod - Press Down Bar", "set": 3, "reps": 10 },
+            { "name": "Tricep Dips - Seated Bench", "set": 3, "reps": 10 }
+          ]
+        },
+        {
+          "workoutperday": [
+            { "name": "Free Squat", "set": 3, "reps": 10 },
+            { "name": "Squat", "set": 3, "reps": 10 },
+            { "name": "Squat", "set": 3, "reps": 10 },
+            { "name": "Leg Extension", "set": 3, "reps": 10 },
+            { "name": "Leg Press - No Weight", "set": 3, "reps": 10 },
+            { "name": "Self Raise", "set": 3, "reps": 10 },
+            { "name": "Hamstring", "set": 3, "reps": 10 }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1,
+      "case":2,
+      "minimumBmi": 18.5,
+      "maximumBmi": 25,
+      "injuries": "",
+      "specification": "",
+      "gender": "male",
+      "circuit": [
+        { "name": "Warmup- 20 minutes", "set": 3, "reps": 10 },
+        { "name": "Flat Dumbbell press", "set": 3, "reps": 10 },
+        { "name": "Inclined Dumbbell press", "set": 3, "reps": 10 },
+        { "name": "Seated Machine Fly", "set": 3, "reps": 10 },
+        { "name": "Wide grip Lat pull down", "set": 3, "reps": 10 },
+        { "name": "Closed Cable Grip Seated Row", "set": 3, "reps": 10 },
+        { "name": "T-bar Row Machine", "set": 3, "reps": 10 },
+        { "name": "Leg Extension", "set": 3, "reps": 10 },
+        { "name": "Leg press", "set": 3, "reps": 10 },
+        { "name": "Leg Curl Machine", "set": 3, "reps": 10 },
+        { "name": "Standing Call Rise", "set": 3, "reps": 10 },
+        { "name": "Cables Push down", "set": 3, "reps": 10 },
+        { "name": "Bar Push down", "set": 3, "reps": 10 },
+        { "name": "Seated Bench- Tricep Dips", "set": 3, "reps": 10 },
+        { "name": "Barbell Curls", "set": 3, "reps": 10 },
+        { "name": "Dumbbell Curls", "set": 3, "reps": 10 },
+        { "name": "Hammer Curls", "set": 3, "reps": 10 },
+        { "name": "Seated Shoulder press", "set": 3, "reps": 10 },
+        { "name": "Dumbbell Front Rise", "set": 3, "reps": 10 },
+        { "name": "Dumbbell Side Rise", "set": 3, "reps": 10 },
+        { "name": "Barbell shrugs", "set": 3, "reps": 10 }
+      ],
+      "workoutperweek": [
+        {
+          "workoutperday": [
+            { "name": "Threadmill-15min", "set": 3, "reps": 10 },
+            { "name": "Pushups", "set": 3, "reps": 10 },
+            { "name": "Flat Bench Press - Dumbell", "set": 3, "reps": 10 },
+            { "name": "Incline Bench Press - Dumbell", "set": 3, "reps": 10 },
+            { "name": "Standing Chest Fly - Cable", "set": 3, "reps": 10 },
+            { "name": "Smith Machine - Chest", "set": 3, "reps": 10 },
+            { "name": "Pushups", "set": 3, "reps": 10 }
+          ]
+        },
+        {
+          "workoutperday": [
+            { "name": "Bent - Over Row - Barbell", "set": 3, "reps": 10 },
+            { "name": "Lat pull down - Cable", "set": 3, "reps": 10 },
+            { "name": "Smith Machine - Barbell", "set": 3, "reps": 10 },
+            { "name": "Cuban Rotation - Dumbell", "set": 3, "reps": 10 },
+            { "name": "Good Morning - Smith Machine", "set": 3, "reps": 10 },
+            { "name": "Pullups", "set": 3, "reps": 10 }
+          ]
+        },
+        {
+          "workoutperday": [
+            { "name": "Reverse Crunch - Cable", "set": 3, "reps": 10 },
+            { "name": "Hanging Leg Raise Twist", "set": 3, "reps": 10 },
+            { "name": "Kneeling Crunch - Cable", "set": 3, "reps": 10 },
+            { "name": "Lying Hip Raise - Smith Machine", "set": 3, "reps": 10 },
+            { "name": "Tuck Crunch - Dumbell", "set": 3, "reps": 10 }
+          ]
+        },
+        {
+          "workoutperday": [
+            { "name": "Face Pull - Cable", "set": 3, "reps": 10 },
+            { "name": "Upright row Barbell", "set": 3, "reps": 10 },
+            { "name": "Shoulder Press","set": 3, "reps": 10 },
+            { "name": "Front Raise", "set": 3, "reps": 10 },
+            { "name": "Lateral Raise", "set": 3, "reps": 10 }
+          ]
+        },
+        {
+          "workoutperday": [
+            { "name": "Barbell Curls", "set": 3, "reps": 10 },
+            { "name": "Dumbell Curls", "set": 3, "reps": 10 },
+            { "name": "Peacher Curls", "set": 3, "reps": 10 },
+            { "name": "Inclined Curls", "set": 3, "reps": 10 },
+            { "name": "Hammer Curls", "set": 3, "reps": 10 },
+            { "name": "Closed Grip Bench Press", "set": 3, "reps": 10 },
+            { "name": "Cables Push Down", "set": 3, "reps": 10 },
+            { "name": "One Hand Dumbell - Low Weight", "set": 3, "reps": 10 },
+            { "name": "V- Curve tricep Rod - Press Down Bar", "set": 3, "reps": 10 },
+            { "name": "Tricep Dips - Seated Bench", "set": 3, "reps": 10 }
+          ]
+        },
+        {
+          "workoutperday": [
+            { "name": "Free Squat", "set": 3, "reps": 10 },
+            { "name": "Squat", "set": 3, "reps": 10 },
+            { "name": "Leg Extension", "set": 3, "reps": 10 },
+            { "name": "Leg Press - No Weight", "set": 3, "reps": 10 },
+            { "name": "Self Raise", "set": 3, "reps": 10 },
+            { "name": "Hamstring", "set": 3, "reps": 10 }
+          ]
+        }
+      ]
+    },
+    {
+        "id":3,
+        "case":4
+    },
+    {
+        "id":4,
+        "case":5
+    },
+    {
+        "id":5,
+        "case":6
+    }
+  ]
+  
+  
